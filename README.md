@@ -3,11 +3,7 @@
 title: "Not Just Replicated — Refined: Figure A9B in R"
 author: "Abishek Verma"
 date: "June 13, 2025"
-format:
-  revealjs:
-    theme: default
-    css: styles.css
-slide-number: true
+
 ---
 
 ## Project Scope
