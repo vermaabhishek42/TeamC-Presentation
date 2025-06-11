@@ -1,0 +1,23 @@
+---
+title: "Replicating Results, Rebuilding Trust: A Replication Study in R"
+author: "Team C"
+format: revealjs
+editor: visual
+date: 2025-06-05
+format:
+  revealjs:
+    theme: solarized
+    css: styles.css
+---
+
+## **Introduction**  Objective:Replicating the Graphs Using RStudio Strategic Thinking Skills: A Key to Collective Economic Success
+
+**Data Availability** :: This paper uses five datasets: i) Singapore Life Panel (**SLP**), ii) Korean Labor and Income Study (**KLIPS**), iii) World Value Survey (**WVS**), iv) World Bank Open Data, and v) Singapore Department of Statistics’ Standard Occupation Classification Code (2015 version). The KLIPS, WVS, and World Bank data are publicly available and deposited in the AEA depository, but the **SLP data is not publicly accessible.**
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
